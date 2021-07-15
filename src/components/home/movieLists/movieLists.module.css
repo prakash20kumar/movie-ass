@@ -1,0 +1,20 @@
+/* movieList */
+.movie_list {
+  margin-top: 2rem;
+  transition: transform 0.4s;
+}
+
+.movie_list:hover {
+  transform: scale(1.05);
+}
+
+.card_title {
+  font-weight: bolder;
+  display: flex;
+  justify-content: space-between;
+}
+
+.heart_icon {
+  color: red;
+  cursor: pointer;
+}

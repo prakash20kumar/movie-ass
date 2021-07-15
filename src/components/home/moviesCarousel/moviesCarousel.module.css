@@ -1,0 +1,20 @@
+/* Carousel */
+.carousel {
+  height: 500px;
+  width: 100%;
+}
+
+.carousel_img {
+  height: 600px;
+}
+
+.carousel_icon {
+  font-size: 95px;
+  color: #f4c10f;
+}
+
+.carousel_caption {
+  text-align: center;
+  font-size: 35px;
+  text-shadow: 0 2px 8px #000000;
+}

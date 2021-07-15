@@ -1,0 +1,16 @@
+.fav_main_btn button {
+}
+
+.modal_title {
+  color: black;
+}
+
+.content {
+  color: #505050;
+  display: flex;
+  justify-content: space-between;
+}
+
+.del_icon {
+  cursor: pointer;
+}

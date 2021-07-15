@@ -1,0 +1,5 @@
+export const FETCH_MOVIES = "FETCH_MOVIES";
+export const SET_MOVIES = "SET_MOVIES";
+export const FETCH_MOVIE_DETAILS = "FETCH_MOVIE_DETAILS";
+export const SET_MOVIE_DETAILS = "SET_MOVIE_DETAILS";
+export const SET_FAVORITE = "SET_FAVORITE";
